@@ -4,7 +4,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+.s-full-width{
+    width: 100% !important; 
+}
 /* Commom */
 html{
     font-family: exo, Helvetica, sans-serif;
